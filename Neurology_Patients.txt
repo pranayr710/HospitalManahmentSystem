@@ -1,0 +1,1 @@
+[2025-04-05 17:47:05] Name: fg, Age: 23, Gender: M, Disease: brain, Medicines: [Diazepam, Atomoxetine, Alprazolam], Bill: Rs.0.0

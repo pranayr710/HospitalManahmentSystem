@@ -1,0 +1,2 @@
+[2025-04-05 17:05:28] Name: sd, Age: 14, Gender: M, Disease: cold, Medicines: [Paracetamol, Ibuprofen], Bill: Rs.0.0
+[2025-04-05 17:38:30] Name: df, Age: 23, Gender: M, Disease: Cold, Medicines: [Paracetamol, Ibuprofen], Bill: Rs.0.0

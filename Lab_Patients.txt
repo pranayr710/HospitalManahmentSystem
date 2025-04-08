@@ -1,0 +1,2 @@
+[2025-04-05 16:50:07] Name: d, Age: 34, Gender: M, Disease: w, Medicines: [DefaultMed], Bill: Rs.300.0
+[2025-04-05 17:02:15] Name: a, Age: 23, Gender: M, Disease: Cold, Medicines: [DefaultMed], Bill: Rs.800.0

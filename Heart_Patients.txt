@@ -1,0 +1,3 @@
+[Name 1, Relative's Name 1, 
+Gender: 1, 
+Disease: 1, Department: Cardialogy]
